@@ -1,51 +1,74 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# James Jerson Ortiz Vega
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+**Colombian Computer Scientist | Researcher in Formal Verification, Timed Automata, and Model-Based Testing**
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+---
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/GetResearchDev)
+## About Me
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, Hugo Blox Builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+I am a researcher at the **Faculty of Computer Science, University of Namur (UNamur)**, and a member of the **Research Center on Information Systems Engineering**.  
+My work focuses on **formal verification**, **timed automata**, **model-based testing**, and **temporal/dynamic logics** for **real-time systems**.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+I have contributed to developing advanced mutation testing techniques for timed models, new logical frameworks for reasoning about dynamic games, and efficient verification tools such as **MUPPAAL**.  
+My research blends theoretical foundations with practical tool development, aiming to improve the reliability and performance of **safety-critical and time-sensitive systems**.
 
-[Check out the latest demo](https://academic-demo.netlify.app/) of what you'll get in less than 10 minutes, or [get inspired by our academics and research groups](https://hugoblox.com/creators/).
+---
 
-The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## Research Interests
 
-- 👉 [**Get Started**](https://hugoblox.com/templates/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Hugo Blox Builder community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@GetResearchDev](https://twitter.com/GetResearchDev) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithHugoBlox](https://twitter.com/search?q=%23MadeWithHugoBlox&src=typed_query)
-- ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 💡 [Suggest an improvement](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/reference/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+- **Formal Methods**: Verification of real-time and distributed systems  
+- **Timed Automata**: Modeling and analysis of time-dependent behaviors  
+- **Model-Based Testing**: Mutation testing, mutant reduction, and test quality improvement  
+- **Temporal & Dynamic Logics**: Obstruction Logic, Timed Obstruction Logic  
+- **Game Theory in Computing**: Timed games, dynamic scenarios, coalition reasoning  
+- **Safety-Critical Systems**: Reliability, testing, and verification tools  
 
-## We ask you, humbly, to support this open source movement
+---
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+## Selected Publications
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+- **2025** – *Coalition Obstruction Temporal Logic: A New Obstruction Logic to Reason about Demon Coalitions* (IJCAI)  
+- **2025** – *Timed Obstruction Logic: A Timed Approach to Dynamic Game Reasoning* (AAMAS)  
+- **2024** – *MUPPAAL: Efficient Elimination and Reduction of Useless Mutants in Real-Time Model-based Systems* (Software Testing, Verification and Reliability, e1907)  
+- **2024** – *Time for Networks: Mutation Testing for Timed Automata Networks*  
+- **2017** – *Multi-timed bisimulation for distributed timed automata* (NASA Formal Methods Symposium)  
 
-### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
+A full list of publications is available on my [Google Scholar profile](https://scholar.google.com/).
 
-<!--
-<p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
--->
+---
 
-## Demo image credits
+## Academic Background
 
-- [Unsplash](https://unsplash.com)
+- **Ph.D. in Computer Science** – University of Namur, Belgium (2023)  
+  *Thesis*: *Modeling and Verifying Distributed and Real-Time Systems using Timed Automata with Partially Independent Clocks*
+- **B.Sc. in Systems Engineering** – Universidad del Valle, Colombia (2001)
 
-## Latest news
+---
 
-<!--START_SECTION:news-->
-* [6 Compelling Reasons I Switched from WordPress to Hugo](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;wordpress&#x2F;)
-* [The 7 best landing page builders in 2024](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;7-best-landing-page-builders&#x2F;)
-* [Start a Blog and Make Money in 2024: Here&#39;s What You Need to Know](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;start-a-blog-and-make-money&#x2F;)
-* [Hugo vs Quarto: Which One is Better for 2024?](https:&#x2F;&#x2F;hugoblox.com&#x2F;vs&#x2F;quarto&#x2F;)
-* [Easily make an academic CV website to get more cites and grow your audience 🚀](https:&#x2F;&#x2F;hugoblox.com&#x2F;blog&#x2F;easily-make-academic-website&#x2F;)
-<!--END_SECTION:news-->
+## Metrics & Impact
+
+- **Citations**: 71 total (44 since 2020)  
+- **h-index**: 5 (4 since 2020)  
+- **i10-index**: 2  
+- **Indexed Works**: 29 research outputs on UNamur’s institutional portal
+
+---
+
+## Projects
+
+- **CFV** – Federated Centre for Software Verification  
+- **THCS** – Testing Highly-configurable Systems  
+- **Doctoral Research** – Formal Methods for the Verification of Distributed Timed Systems  
+
+---
+
+## Teaching
+
+- **INFOM471** – *Vérification de modèles* (M.Sc. in Software Engineering / Data Science)  
+- **IHDCB132** – *Programmation 2* (B.Sc. in Computer Science)  
+
+---
+
+## Collaboration Network
+
+International collaborations with researchers in **Brazil, Luxembourg, France, Au**
