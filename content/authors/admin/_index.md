@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: James Ortiz
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: James
+last_name: Ortiz
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Systems Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,9 +47,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Real-time systems
+  - Mutation testing
+  - System modeling
+  - Markov processes
+  - Safety-critical systems
 
 education:
   - area: PhD Artificial Intelligence
@@ -142,12 +144,15 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
+  - name: French
+    percent: 98
+  - name: English
+    percent: 95
   - name: Portuguese
-    percent: 25
+    percent: 95
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +188,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+James Jerson Ortiz Vega is a Colombian computer scientist and researcher at the Faculty of Computer Science of the University of Namur (UNamur) and a member of the Research Center on Information Systems Engineering. His work focuses on formal verification, timed automata, model-based testing, and temporal/dynamic logics for real-time systems. He develops novel mutation testing approaches for timed models, logical frameworks for reasoning about dynamic games, and efficient verification tools such as MUPPAAL.
+
+
