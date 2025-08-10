@@ -24,8 +24,8 @@ role: Systems Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Namur
+    url: https://researchportal.unamur.be/en/persons/jortizve
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -54,7 +54,7 @@ interests:
   - Safety-critical systems
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Artificial Intelligence (example)
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -63,7 +63,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: MEng Artificial Intelligence (example)
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -74,7 +74,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc Artificial Intelligence (example)
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -86,7 +86,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
+  - position: Director of Cloud Infrastructure (example)
     company_name: GenCoin
     company_url: ''
     company_logo: ''
@@ -112,7 +112,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Technical Skills (example)
     items:
       - name: Python
         description: ''
