@@ -54,94 +54,91 @@ interests:
   - Safety-critical systems
 
 education:
-  - area: PhD Artificial Intelligence (example)
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: University of Namur (UNamur), Belgium
+    date_start: 2019-09-01
+    date_end: 2023-07-04
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis: _Modeling and Verifying Distributed and Real-Time Systems using Timed Automata with Partially Independent Clocks_.  
+      Supervised by Prof. Pierre-Yves Schobbens, Prof. Jean-François Raskin, and Prof. Stavros Tripakis.  
+      Contributions include publications in IJCAI, AAMAS, and STVR, and tool development such as MUPPAAL.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence (example)
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://researchportal.unamur.be/en/publications/modeling-and-verifying-distributed-and-real-time-systems-using-ti'
+  - area: BSc in Systems Engineering
+    institution: Universidad del Valle, Colombia
+    date_start: 1996-01-01
+    date_end: 2001-12-31
     summary: |
-      GPA: 3.8/4.0
+      Undergraduate degree focused on software engineering, algorithms, and computer systems.  
+      Courses included:
+      - Discrete Mathematics
+      - Programming Fundamentals
+      - Programming Languages
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence (example)
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure (example)
-    company_name: GenCoin
-    company_url: ''
+  - position: Researcher & Lecturer
+    company_name: University of Namur (UNamur) – Research Center on Information Systems Engineering
+    company_url: 'https://www.unamur.be'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2019-09-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Conducting research in formal verification, timed automata, and model-based testing for real-time systems
+      - Supervising and mentoring master's and bachelor's students
+      - Teaching graduate and undergraduate courses (Model Verification, Programming 2)
+  - position: Lecturer & Program Coordinator
+    company_name: Universidad del Valle, Colombia
+    company_url: 'https://www.univalle.edu.co'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 1997-01-01
+    date_end: 2003-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Responsibilities included:
+      - Teaching courses in discrete mathematics, programming fundamentals, and programming languages
+      - Coordinating academic programs in systems engineering
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills (example)
+  - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Formal Verification
+        description: Verification of distributed and real-time systems
+        percent: 95
+        icon: shield-check
+      - name: Timed Automata
+        description: Modeling and analysis of time-dependent systems
+        percent: 95
+        icon: clock
+      - name: Model-Based Testing
+        description: Mutation testing and mutant reduction techniques
+        percent: 90
+        icon: beaker
+      - name: Temporal & Dynamic Logics
+        description: Obstruction Logic, Timed Obstruction Logic, timed games
+        percent: 85
+        icon: academic-cap
+      - name: Programming
+        description: Python, Java, and formal modeling languages
         percent: 80
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: Academic Interests
+    color: '#0056a3'
+    color_border: '#0077cc'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+      - name: Safety-Critical Systems
+        description: Reliability and verification methods
+        percent: 90
+        icon: shield-exclamation
+      - name: Game Theory in Computing
+        description: Reasoning in timed and dynamic games
         percent: 80
-        icon: camera
+        icon: squares-plus
+      - name: Tool Development
+        description: Building efficient verification and testing tools
+        percent: 85
+        icon: wrench
+
 
 languages:
   - name: Spanish
