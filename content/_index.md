@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+         I am a computer science researcher specializing in formal verification, timed automata, and model-based testing for real-time systems.  
+         
+         My work focuses on developing rigorous methods and tools to improve the reliability and correctness of safety-critical and distributed systems using temporal logics and mutation testing.  
+         
+         I collaborate internationally across Europe and Latin America and actively contribute to advancing the theory and practice of formal methods in dynamic, time-sensitive environments.  
+         
+         Feel free to reach out for research collaboration or academic exchanges! 😃
     design:
       columns: '1'
   - block: collection
