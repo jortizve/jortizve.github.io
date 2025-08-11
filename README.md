@@ -33,7 +33,7 @@ My research blends theoretical foundations with practical tool development, aimi
 - **2024** – *Time for Networks: Mutation Testing for Timed Automata Networks*  
 - **2017** – *Multi-timed bisimulation for distributed timed automata* (NASA Formal Methods Symposium)  
 
-A full list of publications is available on my [Google Scholar profile](https://scholar.google.com/).
+A full list of publications is available on my [Google Scholar profile](https://scholar.google.com/citations?user=x5XHr_AAAAAJ&hl=en).
 
 ---
 
