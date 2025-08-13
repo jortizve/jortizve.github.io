@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Systems Engineer
+role: PhD. Systems Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
