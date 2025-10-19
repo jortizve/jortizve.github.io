@@ -1,6 +1,6 @@
-# James Jerson Ortiz Vega
+# James Ortiz
 
-**Colombian Computer Scientist | Researcher in Formal Verification, Timed Automata, and Model-Based Testing**
+**Colombian Computer Scientist | Researcher in Formal Verification, Timed Automata, Cybersecurity and Model-Based Testing**
 
 ---
 
