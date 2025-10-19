@@ -185,6 +185,6 @@ awards:
 
 ## About Me
 
-James Jerson Ortiz Vega is a Colombian computer scientist and researcher at the Faculty of Computer Science of the University of Namur (UNamur) and a member of the Research Center on Information Systems Engineering. His work focuses on formal verification, timed automata, model-based testing, and temporal/dynamic logics for real-time systems. He develops novel mutation testing approaches for timed models, logical frameworks for reasoning about dynamic games, and efficient verification tools such as MUPPAAL.
+James Ortiz is a Colombian computer scientist and researcher at the Faculty of Computer Science of the University of Namur (UNamur) and a member of the Research Center on Information Systems Engineering. His work focuses on formal verification, timed automata, model-based testing, and temporal/dynamic logics for real-time systems. He develops novel mutation testing approaches for timed models, logical frameworks for reasoning about dynamic games, and efficient verification tools such as MUPPAAL.
 
 
