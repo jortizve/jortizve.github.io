@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/jortizve
-  - icon: brands/dblp
+  - icon: icons/dblp
     url: https://dblp.org/pid/24/8836.html
   - icon: brands/github
     url: https://github.com/jortizve
