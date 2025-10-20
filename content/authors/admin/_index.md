@@ -49,7 +49,7 @@ profiles:
 interests:
   - Real-time systems
   - Mutation testing
-  - System modeling
+  - Mutation Testing
   - Markov processes
   - Safety-critical systems
 
