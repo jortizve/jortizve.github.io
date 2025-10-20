@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD. Systems Engineer
+role: PhD. Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Namur
-    url: https://researchportal.unamur.be/en/persons/jortizve
+  - name: Université Paris-Est Créteil Val de Marne
+    url: https://lacl-static.lacl.fr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -185,6 +185,6 @@ awards:
 
 ## About Me
 
-James Ortiz is a Colombian computer scientist and researcher at the Faculty of Computer Science of the University of Namur (UNamur) and a member of the Research Center on Information Systems Engineering. His work focuses on formal verification, timed automata, model-based testing, and temporal/dynamic logics for real-time systems. He develops novel mutation testing approaches for timed models, logical frameworks for reasoning about dynamic games, and efficient verification tools such as MUPPAAL.
+I am an associate professor at Laboratoire d'Algorithmique, Complexité, Logique (LACL) in Université Paris-Est Créteil (U-PEC). I work in the Systems Specification and Verification team. My work focuses on formal methods, timed automata, model-based testing, temporal/timed logics, model checking, cyberPhysical an cybersecurity systems. I develop novel mutation testing approaches for timed models, logical frameworks for reasoning about dynamic games, and efficient verification tools such as MUPPAAL.
 
 
