@@ -71,4 +71,4 @@ A full list of publications is available on my [Google Scholar profile](https://
 
 ## Collaboration Network
 
-International collaborations with researchers in **Brazil, Luxembourg, France, Au**
+International collaborations with researchers in **Brazil, Luxembourg, France, Belgium**
