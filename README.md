@@ -1,6 +1,6 @@
 # James Ortiz
 
-**Colombian Computer Scientist | Researcher in Formal Verification, Timed Automata, Cybersecurity and Model-Based Testing**
+**Computer Scientist | Researcher in Formal Methods, Timed Automata, Cybersecurity and Model-Based Testing**
 
 ---
 
